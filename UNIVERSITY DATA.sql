@@ -27,6 +27,9 @@ SELECT DISTINCT city FROM student;
 
 SELECT * FROM student WHERE marks > 80;
 
+
+
+
 SELECT * FROM student WHERE city = "Pune";
 
 
